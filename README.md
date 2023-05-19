@@ -1,4 +1,3 @@
-Russian Roulette
-================
+# Russian Roulette
 
-A `panic` routine that plays russian roulette: will it *segfault* or exit gracefully?
+_A `panic` routine that plays russian roulette: will it segfault or exit gracefully?_
